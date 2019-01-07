@@ -1,3 +1,5 @@
-整理web前端群里每天的优秀文章和工具，供各位小伙伴们学习参考
-
-* [2019.01.03-周四](https://github.com/hkdg/web-data-summary/blob/master/2019.01.03.md)
+﻿<div class="output_wrapper" id="output_wrapper_id" style="font-size: 16px; color: rgb(62, 62, 62); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;"><p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px;">整理web前端群里每天的优秀文章和工具，供各位小伙伴们学习参考。<br>想进群的前端小伙伴加群主（yck）或管理微信（yygmind），会有简单的审核（会翻墙，大概能看英文文档，乐于分享）；</p>
+<ul style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; padding-left: 32px; list-style-type: disc;">
+<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><a href="https://github.com/hkdg/web-data-summary/blob/master/2019.01.03.md" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); word-wrap: break-word;">2019.01.03-周四</a></li>
+<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><a href="https://github.com/hkdg/web-data-summary/blob/master/2019.01.04.md" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); word-wrap: break-word;">2019.01.04-周五</a></li>
+</ul></div>
