@@ -12,3 +12,4 @@
 *  [2019.01.15](https://github.com/hkdg/web-data-summary/blob/master/2019.01.15.md)
 *  [2019.01.16](https://github.com/hkdg/web-data-summary/blob/master/2019.01.16.md)
 *  [2019.01.17-18](https://github.com/hkdg/web-data-summary/blob/master/2019.01.17-18.md)
+*  [2019.01.19-20](https://github.com/hkdg/web-data-summary/blob/master/2019.01.19-20.md)
