@@ -1,6 +1,4 @@
-整理web前端群里每天的优秀文章和工具，供各位小伙伴们学习参考。想进群的前端小伙伴加群主微信yck，
-
-学习交流的可以加我微信VV523849882
+整理web前端群里每天的优秀文章和工具，供各位小伙伴们学习参考。想进群的前端小伙伴加群主微信yck，学习交流的可以加我微信VV523849882
 
 
 * [2019.01.03](https://github.com/hkdg/web-data-summary/blob/master/2019.01.03.md)
@@ -16,3 +14,4 @@
 * [2019.01.19-20](https://github.com/hkdg/web-data-summary/blob/master/2019.01.19-20.md)
 * [2019.01.21](https://github.com/hkdg/web-data-summary/blob/master/2019.01.21.md)
 * [2019.01.22](https://github.com/hkdg/web-data-summary/blob/master/2019.01.22.md)
+* [2019.01.23-24](https://github.com/hkdg/web-data-summary/blob/master/2019.01.23-24.md)
