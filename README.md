@@ -23,3 +23,4 @@
 * [2019.02.18-02.21](https://github.com/hkdg/web-data-summary/blob/master/2019.02.18-02.21.md)
 * [2019.02.22-02.24](https://github.com/hkdg/web-data-summary/blob/master/2019.02.22-02.24.md)
 * [2019.02.25-03.01](https://github.com/hkdg/web-data-summary/blob/master/2019.02.25-03.01.md)
+* [2019.03.02-03.08](https://github.com/hkdg/web-data-summary/blob/master/2019.03.02-03.08.md)
